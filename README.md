@@ -1,8 +1,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-*This project was created for fun in learning purposes, never use it on production, it's raw and not tested at all!*
+*This project was created for fun for learning purposes, never use it on production, it's raw and not tested at all!*
 
-This a simple express.js projects for uploading files to the server.
+This a simple express.js project for uploading files to the server.
 
 Here's why I created it:
 * It was very useful to get myself comfortable with express.js routing model
