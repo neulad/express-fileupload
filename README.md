@@ -42,4 +42,8 @@ Just grab these commands to the console, pray, and see if it's working!
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Go to http://localhost:3000, or specify PORT environmental variable to choose other port. 
+```sh
+npm run start
+```
+
+Now just go to http://localhost:3000, or specify PORT environmental variable to choose other port. 
