@@ -25,7 +25,7 @@ Just grab these commands to the console, pray, and see if it's working!
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone git@github.com:neulad/express-fileupload.git
    ```
 3. Install NPM packages
    ```sh
